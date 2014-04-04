@@ -6,8 +6,10 @@
     padding: 0px !important;
      -moz-appearance: none;
     background-color: #2B2B2B !important;
-    border-top: 1px solid gray;
+    border-top: 1px solid #656565;
     border-bottom: 1px solid #111;
+    border-left: 1px solid #656565;
+    border-right: 1px solid #111;
     font-weight: bold !important;
 }
 
