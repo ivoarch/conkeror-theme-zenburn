@@ -20,12 +20,12 @@
 
 /* mode text widgets */
 #minibuffer[minibuffermode="message"] .mode-text-widget {
-    color: #94BFF3 !important;*/
-		display: block;
+    color: #94BFF3 !important;
+    display: block;
 }
 
 #minibuffer[minibuffermode="message"] .mode-text-widget[value=""] {
-		display: none;
+    display: none;
 }
 
 /* Completions display */
