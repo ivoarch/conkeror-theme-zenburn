@@ -1,0 +1,21 @@
+@namespace url("http://www.w3.org/1999/xhtml");
+
+span.__conkeror_hint {
+    background-color: #3F3F3F !important;
+    color: #F0DFAF !important;
+    position: absolute !important;
+    font-family: Menlo, Monaco, "DejaVu Sans Mono", "Lucida Console", monospace;
+    font-size: 16px !important;
+    line-height: 16px !important;
+    font-weight: bold !important;
+    padding: 0px 2px !important;
+    border-radius: 3px;
+    z-index: 10000001 !important;
+    display: block !important;
+}
+
+span.__conkeror_img_hint {
+    position: absolute;
+    opacity: 0.5;
+    z-index: 10000000;
+}
