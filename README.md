@@ -4,11 +4,13 @@ Zenburn theme for conkeror
 
 ## Load theme ##
 
-just place the directory into your conkeror config directory
-[~/.conkeror.mozdev.org] and load the theme in your conkerorrc
-[~/.conkerorc] with:
+```
+theme_load_paths.unshift("~/.conkeror/themes/");
+theme_unload("default");
+theme_load("conkeror-theme-zenburn");
+```
 
-`theme_load("conkeror-theme-zenburn");`
+See: [Conkeror-Appearance](http://conkeror.org/Appearance#Theming)
 
 ## Screenshots ##
 
