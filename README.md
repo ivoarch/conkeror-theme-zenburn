@@ -21,3 +21,7 @@ See: [Conkeror-Appearance](http://conkeror.org/Appearance#Theming)
 ### prompt/completions ###
 
 ![prompt-completions](comp.png)
+
+### Credit
+
+Credit to [zenburn-conkeror](https://github.com/smabie/zenburn-conkeror) by @smabie .
